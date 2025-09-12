@@ -9,13 +9,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrendCatcher&layout=compact)
 
-- 🔭 I’m currently working on house
+- 🔭 I’m currently working on USEED
 - 
-- 🌱 I’m currently learning Spring Boot and preparing fo rcoding test
+- 🌱 I’m currently worrking on math_escape app through flutter
+- but main Tools are Spring Boot and java
 - 
 - 👯 I’m looking to collaborate on ...
 - 
-- 🤔 I’m looking for help with whom to study together
+- 🤔 I’m looking for help with whom to study Scalable architecture
 - 💬 Ask me about my repositories
 - 📫 How to reach me: karleo@naver.com
 - 
