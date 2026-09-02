@@ -1,6 +1,6 @@
 <div align="center">
 
-![TrendCatcher profile header](https://capsule-render.vercel.app/api?type=wave&color=0:2f81f7,100:57ab5a&height=240&section=header&text=Jimin%20Oh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Learning%20Steadily&descAlignY=58&descSize=20)
+![TrendCatcher profile header](https://capsule-render.vercel.app/api?type=wave&color=0:2f81f7,100:57ab5a&height=240&section=header&text=Jimin%20Oh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Native%20PM%20%7C%20Learning%20Steadily&descAlignY=58&descSize=20)
 
 ### 꾸준히 배우고, 기록하고, 실행하는 기획자입니다.
 
