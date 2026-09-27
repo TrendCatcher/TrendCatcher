@@ -2,7 +2,7 @@
 
 ![TrendCatcher profile header](https://capsule-render.vercel.app/api?type=wave&color=0:2f81f7,100:57ab5a&height=240&section=header&text=Jimin%20Oh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Native%20PM%20%7C%20Learning%20Steadily&descAlignY=58&descSize=20)
 
-### 꾸준히 배우고, 기록하고, 실행하는 기획자입니다.
+### 꾸준히 배우고, 기록하고, 실행하는 창업가입니다.
 
 Java와 Spring Boot를 중심으로 백엔드를 개발하며, Flutter 프로젝트와 확장 가능한 아키텍처도 꾸준히 학습하고 있습니다.
 
